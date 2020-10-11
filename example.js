@@ -18,7 +18,7 @@ const isBeautifulString = (inputString) => {
     return true;
 };
 /**
- * Test
+ * Test example
  */
 console.log(
     isBeautifulString('bbbaacdafe') === true
